@@ -1,20 +1,20 @@
 {
-    "name": "laravel-enso/versioning",
+    "name": "cgdsoftware/versioning",
     "description": "Prevents update conflicts using the optimistic lock pattern in Laravel",
     "keywords": [
-        "laravel-enso",
+        "cgdsoftware",
         "versioning",
         "trait",
         "optimistic-lock"
     ],
-    "homepage": "https://github.com/laravel-enso/versioning",
+    "homepage": "https://github.com/cgdsoftware/versioning",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         }
     ],
