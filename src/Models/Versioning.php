@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Versioning\Models;
+namespace LaravelLiberu\Versioning\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

@@ -1,12 +1,12 @@
 <?php
 
-namespace LaravelEnso\Versioning\Traits;
+namespace LaravelLiberu\Versioning\Traits;
 
 use Exception;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Support\Facades\DB;
-use LaravelEnso\Versioning\Exceptions\Versioning as VersioningException;
-use LaravelEnso\Versioning\Models\Versioning;
+use LaravelLiberu\Versioning\Exceptions\Versioning as VersioningException;
+use LaravelLiberu\Versioning\Models\Versioning;
 
 trait Versionable
 {

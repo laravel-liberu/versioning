@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Versioning;
+namespace LaravelLiberu\Versioning;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -24,13 +24,13 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\Versioning\\": "src/"
+            "LaravelLiberu\\Versioning\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\Versioning\\AppServiceProvider"
+                "LaravelLiberu\\Versioning\\AppServiceProvider"
             ],
             "aliases": {}
         }

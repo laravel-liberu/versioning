@@ -3,8 +3,8 @@
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Schema;
-use LaravelEnso\Versioning\Exceptions\Versioning;
-use LaravelEnso\Versioning\Traits\Versionable;
+use LaravelLiberu\Versioning\Exceptions\Versioning;
+use LaravelLiberu\Versioning\Traits\Versionable;
 use Tests\TestCase;
 
 class VersioningTest extends TestCase
